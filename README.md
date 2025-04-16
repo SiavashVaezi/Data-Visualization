@@ -1,2 +1,2 @@
-Welcome to my Data Visualization repository. Here you can find my projects with Power BI. In every project I have tried to learn new skill in using Power BI,
-enhance my analytical and business acumen.
+Welcome to my Data Visualization repository. Here you can find my projects with Power BI. In every project I try to learn new skills in using Power BI and DAX along with
+enhancing my analytical and business acumen.

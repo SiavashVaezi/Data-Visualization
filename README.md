@@ -16,3 +16,10 @@ Working with data gives me the chance to enhance my knowledge in other field. In
 When performance indicators are paired with other information valuable insights can be gained. For example, as it is shown below, "Huawei", A brand with the lowest sales volume and the least profitability, had the highest sales productivity and moderate sales increase in 2021. This problem can originate from different sources like "insufficient marketing", "weak branding", "wrong pricing" or other sections.
 
 ## Project 3: Marketing Campaign Analysis
+The Insight from the dataset:
+1) Wine was the product that recorded the highest sales. (50% of Total spend)
+2) Totally, people with high income ranage (52000-75000$) spent the most compared to other income categories.
+3) Regarding the effect of age, people in (35-50) age range, made the most purchase. (40.6%)
+4) Spanish citizens with 662220$ spending, stood at the first rank compared to other countries.
+5) The most people preferred doing their purchase at stores.
+6) 167 people accepted the offer in campaign 4 which was the most successful campaign.

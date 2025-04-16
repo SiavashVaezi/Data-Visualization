@@ -14,3 +14,5 @@ In the last section, The reasons for employee turnover and the turnover rate wer
 ## Project 2: Phone Sales Analysis
 Working with data gives me the chance to enhance my knowledge in other field. In this analysis I have tried to analyze a sales dataset. Among the many performance indicators in the field of sales, I took "sales increase" (The amount of sales growth or decline compared to the previous period), "Sales productivity" (sales/cost) and profit margin.
 When performance indicators are paired with other information valuable insights can be gained. For example, as it is shown below, "Huawei", A brand with the lowest sales volume and the least profitability, had the highest sales productivity and moderate sales increase in 2021. This problem can originate from different sources like "insufficient marketing", "weak branding", "wrong pricing" or other sections.
+
+## Project 3: Marketing Campaign Analysis

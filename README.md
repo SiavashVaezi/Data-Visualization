@@ -32,7 +32,7 @@ To Analyze this dataset, I divided the project to 3 sections : Customer, Product
 * In Product Part, It is shown below that the Phone and chair have the highest sales among sub-categories with 0.33M. Also, Copiers with 0.06M stand at first rank of profit. Another key insight derived from this dataset is technology is the most profitable category in this store.
 ![Alt text](Image/Product.png)
 
-*In the final section, we observe that although the number of sold items increased since 2019, the total sales revenue declined in 2020.
+* In the final section, we observe that although the number of sold items increased since 2019, the total sales revenue declined in 2020.
 ![Alt text](Image/Sales.png)
 
 

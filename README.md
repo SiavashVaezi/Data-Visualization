@@ -24,4 +24,7 @@ The Insights from the dataset:
 5) The most people preferred doing their purchase at stores.
 6) 167 people accepted the offer in campaign 4 which was the most successful campaign.
 
-## Project 3: Super Store Analysis
+## Project 4: Super Store Analysis
+To Analyze this dataset, I divided the project to 3 sections : Customer, Product and Sales.
+* In the customer section, I examined the distribution of customers in the United States. Customers in the West and East recorded higher sales and profitability compared to those in the South and Central regions. Additionally, the highest sales were recorded in New York City. One important point in this section was the decline in the number of customers in 2020, which, as reflected in the sales section, led to a decrease in total sales for that year.
+

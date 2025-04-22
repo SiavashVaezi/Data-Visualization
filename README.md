@@ -23,3 +23,5 @@ The Insights from the dataset:
 4) Spanish citizens with 662220$ spending, stood at the first rank compared to other countries.
 5) The most people preferred doing their purchase at stores.
 6) 167 people accepted the offer in campaign 4 which was the most successful campaign.
+
+## Project 3: Super Store Analysis
